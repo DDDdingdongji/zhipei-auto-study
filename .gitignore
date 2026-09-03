@@ -1,0 +1,22 @@
+# 构建产物与本地文件
+build/
+dist/
+release/
+*.spec
+__pycache__/
+*.pyc
+pylibs/
+
+# 打包压缩包
+*.zip
+
+# 本机测试样本（含个人信息，勿上传）
+验证拦截.png
+验证码图.png
+人机验证图.png
+刷课脚本*.txt
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
