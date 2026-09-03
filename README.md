@@ -35,7 +35,7 @@
 脚本的自动识别依赖一个**本机运行**的 OCR 服务（识别在本地完成，验证码图片不离开你的电脑）。
 
 - 不想装 Python？直接下载 [Releases](../../releases) 里的
-  `识别服务-win64.zip`，解压双击 `启动识别服务.exe`；
+  `captcha-ocr-server-win64.zip`，解压双击 `启动识别服务.exe`；
 - 或按 [`server/README.md`](server/README.md) 用 Python 运行。
 
 > 不启动服务也能用脚本，只是遇到验证时暂停等人工处理。
