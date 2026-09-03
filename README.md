@@ -1,0 +1,2 @@
+# -
+用于在 江西省补贴性线上职业技能培训管理平台 刷网课。 请一定要看zhipei-auto-study\release\captcha-ocr-server下的使用说明.txt 请一定要看zhipei-auto-study\release\captcha-ocr-server下的使用说明.txt 请一定要看zhipei-auto-study\release\captcha-ocr-server下的使用说明.txt  项目解压缩之后 数字验证码与算术验证偶尔会出现无法识别的问题，需要你手动输入确认；人脸识别实在是没有办法解决，这只能靠用户自行人脸识别了
