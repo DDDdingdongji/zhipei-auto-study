@@ -11,7 +11,7 @@
 
 ### 方式一：免安装版（推荐，无需 Python）
 
-1. 到 [Releases](../../releases) 下载最新 `识别服务-win64.zip`；
+1. 到 [Releases](../../releases) 下载最新 `captcha-ocr-server-win64.zip`；
 2. 解压后双击 `启动识别服务.exe`；
 3. 看到 `验证码识别服务已启动: http://127.0.0.1:8765/solve` 即成功，
    刷课期间保持窗口开启。
