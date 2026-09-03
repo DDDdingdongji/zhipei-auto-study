@@ -1,5 +1,0 @@
-numpy>=1.24
-opencv-python>=4.8
-Pillow>=10.0
-rapidocr_onnxruntime>=1.4.4
-ddddocr>=1.5.0
